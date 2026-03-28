@@ -103,8 +103,6 @@ Enter your choice:
 
 ## Future Enhancements
 
-* 📚 Book issue/return system
-* 👥 Multiple user roles
 * 📊 Advanced search and filtering
 * 🖥️ GUI interface
 
